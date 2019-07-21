@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets"
+        xmlns:gap="http://phonegap.com/ns/1.0"
+        id="com.rodrigoveiga.creativecursosapp"
+        version="1.0.0">
+
+    <name>
+        Creative Cursos App
+    </name>
+
+    <description>
+        Aplicativo que contém os cursos do site Creative Cursos, para você poder assistir mesmo quando não tiver Internet.
+    </description>
+
+    <author email="rodrigoveiga.2001@gmail.com">
+        Rodrigo Veiga Costa
+    </author>
+
+    <icon src="icon.png" />
+
+	<preference name="orientation" value="portrait" />
+	<preference name="permissions" value="none" />
+	<platform name="android" />
+
+</widget>
