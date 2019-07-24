@@ -18,7 +18,7 @@
 
     <icon src="icon.png" />
 
-	<preference name="permissions" value="none" />
+	<preference name="permissions" value="android.permission.INTERNET" />
 	<platform name="android" />
 	
 	<preference name="InAppBrowserStorageEnabled" value="true"/>
