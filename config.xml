@@ -20,5 +20,7 @@
 
 	<preference name="permissions" value="none" />
 	<platform name="android" />
+	
+	<allow-intent href="http://creativecursos.tk/" />
 
 </widget>
