@@ -21,6 +21,7 @@
 	<preference name="permissions" value="none" />
 	<platform name="android" />
 	
+	<preference name="InAppBrowserStorageEnabled" value="true"/>
 	<allow-intent href="http://creativecursos.tk/" />
 
 </widget>
