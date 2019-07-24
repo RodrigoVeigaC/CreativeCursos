@@ -23,7 +23,7 @@
 	
 	<plugin name="cordova-plugin-whitelist" spec="1" />
   	<access origin="index.html" />
-  	<allow-intent href="http://creativecursos.tk/" />
+  	<allow-navegation href="http://creativecursos.tk/" />
 	<allow-intent href="http://creativecursos.tk/ldp.php" />
 	<allow-intent href="http://creativecursos.tk/ppi.php" />
 	<allow-intent href="http://creativecursos.tk/bdd.php" />
